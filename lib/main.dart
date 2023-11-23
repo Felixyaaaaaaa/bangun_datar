@@ -1,4 +1,5 @@
 import 'package:bangun_datar_felix_c/page/home_page.dart';
+import 'package:bangun_datar_felix_c/page/persegi_page.dart';
 import 'package:flutter/material.dart';
 
 void main() {
